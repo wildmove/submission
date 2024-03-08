@@ -70,7 +70,7 @@ def create_weather_rent_df(df):
     })
     return weather_rent_df
 
-day_df = pd.read_csv("dashboard\\final_data.csv")
+day_df = pd.read_csv("dashboard//final_data.csv")
 
 
 # Membuat komponen filter
