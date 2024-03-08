@@ -7,6 +7,7 @@
 Proyek ini bertujuan untuk analisis data, visualisasi data, dan membuat dashboard yang bersumber dari data Bike Sharing Dataset
 
 ## Struktur Berkas
+```
 .
 ├── dashboard
 │   ├── dashboard.py
